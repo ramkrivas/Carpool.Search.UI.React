@@ -34,14 +34,14 @@ Steps to Install and start the application locally
   
   **Open issues and Areas for improvement**
   
-  I didn't send much time in CSS formatting. Though I used SCSS preprocessors, for better encapsulation the scss can be enabled at indidivual component level.
+  I didn't send much time in CSS formatting. Though I used SCSS preprocessors, for better encapsulation the scss can be enabled at indidivual component level as an improvement.
   
-  Search we do from the search control is not completely integrated with search result. Currently, it will always show the for hardcoded search parameter.
+  Search we do from the search control is not completely integrated with search result. Currently, it will always show the results for hardcoded search parameter.
   
   The code must be enchanced for error handling. Currently error handling is not done for most of the scenarios.
   
-  The UT test coverage, I did only for few components to give insights on what on the approach. I didn't get time to complete the UT coverages for some of the components
-  and also for the service codes.
+  The UT test coverage, I did only for few components to give insights on the approach. I didn't get time to complete the UT/IT for some of the components
+  and also for the service level codes.
   
   There is a open bug, first time it brings the duplcicate results. The possible cause is the trip card component is getting re-rendered. This has to be fixed.
   
