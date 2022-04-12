@@ -1,3 +1,3 @@
 import './header';
-import './search-pane';
-import './trips-card';
+import './search-pane'
+import './trips-card'
