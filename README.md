@@ -6,6 +6,8 @@ The hosted application can be accessed from the below URL:
 
 https://ramkrivas.github.io/blablacar.assignment/
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71707/162988640-5e2b8fe0-f3af-49c3-ba66-df514aae5a08.gif)
+
 Steps to Install and start the application locally
 
   > npm install
@@ -42,6 +44,9 @@ Steps to Install and start the application locally
   and also for the service codes.
   
   There is a open bug, first time it brings the duplcicate results. The possible cause is the trip card component is getting re-rendered. This has to be fixed.
+  
+  
+  
   
   
   
