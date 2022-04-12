@@ -1,0 +1,22 @@
+@import "../../Common/variables.scss";
+
+.uisegmentcustom {
+  background-color: #fce5e5 !important;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  padding-bottom: 10px !important;
+  padding-top: 10px !important;
+  margin-bottom: 100px;
+}
+.header {
+  color: $theme_FontColor !important;
+  font-weight: 700 !important;
+  text-align: center;
+}
+.logo {
+  padding: 10px;
+}
+.ant-btn-primary {
+  background-color: $theme_ColorPallete_Blue !important;
+}

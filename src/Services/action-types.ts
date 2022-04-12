@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  FETCH_TRIPS: "FETCH_TRIPS",
+  STACKING_TRIPS: "STACKING_TRIPS",
+  NAVIGATE_PAGE: "NAVIGATE_PAGE",
+};

@@ -1,0 +1,77 @@
+.img {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.line-5 {
+  height: 5px;
+  background: linear-gradient(
+    to bottom,
+    transparent 2px,
+    black 2px,
+    black 3px,
+    transparent 3px
+  );
+}
+/* trip card styles */
+
+.ui.grid {
+  margin-left: 0;
+}
+
+.cards {
+  padding-left: 50px;
+  margin: auto !important;
+  width: 40%;
+}
+.card {
+  max-width: 450px;
+  max-height: 400px;
+  min-width: 650px;
+}
+
+.cardHeader {
+  max-height: 80px !important;
+  font-size: 11px;
+}
+.line-5 {
+  height: 5px;
+  background: linear-gradient(
+    to bottom,
+    transparent 2px,
+    black 2px,
+    black 3px,
+    transparent 3px
+  );
+}
+.routeStart {
+  text-align: left;
+  color: #054752;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+.routeEnd {
+  text-align: right;
+  color: #054752;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+.routeAddressLeft {
+  text-align: left;
+  color: #054752;
+  font-weight: 500;
+  font-size: 0.6rem;
+}
+.routeAddressRight {
+  text-align: right;
+  color: #054752;
+  font-weight: 500;
+  font-size: 0.6rem;
+}
+.flatCards {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+/* trip card styles ends*/
