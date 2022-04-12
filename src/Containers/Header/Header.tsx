@@ -13,7 +13,7 @@ const Header = () => {
       <div className={`ui grid`}>
         <div className="three wide computer nine wide tablet six wide mobile column">
           <div className="logo">
-            <img src={"../../logo.svg"} alt="blablacar logo" />
+            <img src={"logo.svg"} alt="blablacar logo" />
           </div>
         </div>
       </div>
