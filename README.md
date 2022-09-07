@@ -1,10 +1,8 @@
-**BlablaCar Web - Assignment:**
+**Carpool Search UI**
 
-A simple web application that renders a basic Blablacar search result page.
+A simple React application that renders a basic Blablacar search result page.
 
 The hosted application can be accessed from the below URL:
-
-https://ramkrivas.github.io/blablacar.assignment/
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71707/162988640-5e2b8fe0-f3af-49c3-ba66-df514aae5a08.gif)
 
@@ -24,8 +22,7 @@ Steps to Install and start the application locally
   
   **Thought process during development**
   
-  Initially when I started this assignment, I didn't decide the final application will be in angular or react. Hence I wanted to be framework agnostic with UI developmnent.
-  so, I decided to build the "search control", "overlay controls" as a web component with **ShadowDOM** which provides better encapsulation also can be resued in any of the SPA framework. 
+  Initially when I started this quick application, I didn't decide the final application will be in angular or react. Hence I wanted to be framework agnostic with UI developmnent. so, I decided to build the "search control", "overlay controls" as a web component with **ShadowDOM** which provides better encapsulation also can be resued in any of the SPA framework. 
   
   The final application is now in react which integrates both the react webcomponents and also custom web components. 
   
